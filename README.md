@@ -1,2 +1,1 @@
-# POP
-Procedure Oriented Programming
+# Procedure Oriented Programming(POP)
